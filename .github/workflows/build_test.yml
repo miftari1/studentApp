@@ -22,7 +22,5 @@ jobs:
 
       - name: Install dependencies
         run: npm install
-      - name: Run studentApp
-        run: npm start
-      - name: Start tests
+      - name: Run tests
         run: npm test
