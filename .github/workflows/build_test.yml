@@ -1,4 +1,4 @@
-name: studentApp
+name: Build and test studentApp
 
 on:
   push:
